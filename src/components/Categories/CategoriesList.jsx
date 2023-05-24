@@ -1,4 +1,4 @@
-const CategoriesList = ({categories = []}) => {
+const CategoriesList = ({ categories = [] }) => {
     return (
         <ol>
             {
